@@ -1,1 +1,2 @@
+[toc]
 # Vue2Demo
